@@ -1,0 +1,3 @@
+J:\desktop\Mystuff\Problems.Tests\obj\Debug\netcoreapp3.1\Problems.Tests.csprojAssemblyReference.cache
+J:\desktop\Mystuff\Problems.Tests\obj\Debug\netcoreapp3.1\Problems.Tests.AssemblyInfoInputs.cache
+J:\desktop\Mystuff\Problems.Tests\obj\Debug\netcoreapp3.1\Problems.Tests.AssemblyInfo.cs
